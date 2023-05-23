@@ -1,7 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome everyone!
 ---
+
+Hi,
+
+I'm Danilo, and this is my first blog post on Jekyll!
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
